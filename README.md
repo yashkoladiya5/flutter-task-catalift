@@ -1,10 +1,55 @@
-This repository is part of the Catalift onboarding and evaluation process for potential Flutter developers. It serves as:
+# Catalift Developer Task
 
-A sandbox for you to work on real tasks and features
+Welcome to the official task repository for candidates applying to join the Catalift development team.
 
-A reference for code quality, commit hygiene, and collaboration style
+## 🎯 Task Objective
 
-A way for the core team to track your contributions during the probation
+Your task is to **replicate a mobile app screen** based on the design files we’ve shared with you via email. This will help us assess your development skills, code structure, and UI implementation capabilities.
+
+---
+
+## 📬 Design Assets
+
+All required design assets (PNG/SVG) have been sent to your registered email address. Please check your inbox for a mail from **techcatalift@gmail.com** with the subject line:  
+**"Catalift Developer Task – Assets Inside"**
+
+---
+
+## ✅ What You Need to Do
+
+1. **Fork this repository** to your own GitHub account.
+2. Create a new branch (optional but preferred):  
+   `git checkout -b your-name-task`
+3. Build the screen using Flutter.
+4. Maintain a clean and modular code structure.
+5. Commit and push your code to your forked repository.
+6. Submit the link to your public fork using the official submission form.
+
+---
+
+## 💡 Evaluation Criteria
+
+- Clean, well-organized code  
+- Accuracy and responsiveness of layout  
+- Sensible use of components and naming  
+- Design improvements (only for those who opted for dev+design)  
+
+---
+
+## ⚠️ Important Notes
+
+- Submit your task within **5 days** of receiving this link.
+- Your forked repository must be **public** for review.
+
+---
+
+## 📩 Need Help?
+
+If you face any issues or have questions, feel free to reach us at:  
+**techcatalift@gmail.com**
+
+We look forward to reviewing your work. Best of luck!
+
 
 About Catalift: 
 Catalift is a mobile-first platform that connects engineering students with alumni mentors for career guidance, emotional support, and real-world skill development. It offers:
