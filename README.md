@@ -6,7 +6,7 @@ A reference for code quality, commit hygiene, and collaboration style
 
 A way for the core team to track your contributions during the probation
 
-About Catalift
+About Catalift: 
 Catalift is a mobile-first platform that connects engineering students with alumni mentors for career guidance, emotional support, and real-world skill development. It offers:
 
 1-on-1 mentorship
