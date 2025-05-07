@@ -11,7 +11,7 @@ Your task is to **replicate a mobile app screen** based on the design files we�
 ## 📬 Design Assets
 
 All required design assets (PNG/SVG) have been sent to your registered email address. Please check your inbox for a mail from **techcatalift@gmail.com** with the subject line:  
-**"Catalift Developer Task – Assets Inside"**
+**"Congratulations – Move Forward with Catalift's Developer Task!"**
 
 ---
 
