@@ -38,7 +38,7 @@ All required design assets (PNG/SVG) have been sent to your registered email add
 
 ## ⚠️ Important Notes
 
-- Submit your task within **5 days** of receiving this link.
+- Submit your task within **7 days** of receiving this link.
 - Your forked repository must be **public** for review.
 
 ---
