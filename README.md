@@ -32,7 +32,7 @@ All required design assets (PNG/SVG) have been sent to your registered email add
 - Clean, well-organized code  
 - Accuracy and responsiveness of layout  
 - Sensible use of components and naming  
-- Design improvements (only for those who opted for dev+design)  
+- Design improvements (also heavily weighted: only for those who opted for dev+design)  
 
 ---
 
