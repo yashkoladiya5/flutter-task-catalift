@@ -22,7 +22,7 @@ All required design assets (PNG/SVG) have been sent to your registered email add
    `git checkout -b your-name-task`
 3. Build the screen using Flutter. (If you prefer to build using different tech stack and not flutter immediately mail techcatalift@gmail.com with subject as "change task repo")
 4. Maintain a clean and modular code structure.
-5. Commit and push your code to your forked repository.
+5. Commit and push your code directly to your forked repository not inside a folder.
 6. Submit the link to your public fork using the official submission form.
 
 ---
