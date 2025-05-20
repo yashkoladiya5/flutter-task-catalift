@@ -61,3 +61,29 @@ Career-focused cohorts and projects
 Alumni-led courses
 
 A supportive community for aspiring engineers
+
+
+
+✨ Developer Notes by Yash Koladiya
+✅ Completed Requirements:
+Implemented all given designs as per the Figma/mockup
+
+Maintained clean, modular, and well-structured Flutter code
+
+🚀 Bonus Features Added:
+Splash Screen
+
+Cart Page with course listing
+
+Horizontal scrolling for courses
+
+Responsive layout for different screen sizes
+
+🛠️ Tech Stack Used:
+Flutter
+
+Dart
+
+flutter
+
+State management: Provider
